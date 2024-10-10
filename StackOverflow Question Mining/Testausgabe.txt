@@ -1,0 +1,117 @@
+===================================================================
+Analysis of Top 100 questions (based on score) tagged with "lambda"
+===================================================================
+
+3 random questions (stream().limit(3)):
+  "Comparator.reversed() does not compile using lambda"
+  "Using Java 8&#39;s Optional with Stream::flatMap"
+  "A positive lambda: &#39;+[]{}&#39; - What sorcery is this?"
+
+question with highest score:
+  "Is there a reason for C#&#39;s reuse of the variable in a foreach?" with score 1846
+
+question with shortest owner name:
+  "Local function vs Lambda C# 7.0" by user "Sid"
+
+all questions that start with the word 'Can':
+  "Can a java lambda have more than 1 parameter?"
+  "Can lambda functions be templated?"
+  "Cannot use ref or out parameter in lambda expressions"
+  "Can a C# lambda expression have more than one statement?"
+
+question with longest answer bodies:
+  "What is the difference between a &#39;closure&#39; and a &#39;lambda&#39;?"
+
+distinct users that answered questions:
+  896
+
+youngest question:
+  "Local function vs Lambda C# 7.0"
+
+oldest question:
+  "When to use lambda, when to use Proc.new?"
+
+(score / view count) ratios:
+  [4.6025939919024415E-4, 5.404801295686602E-4, 5.683488062514047E-4, 6.068036309147875E-4, 6.10050720588672E-4, 6.197244669019562E-4, 6.217490863321353E-4, 6.220839813374805E-4, 6.751828770733892E-4, 6.769095145141993E-4, 6.886034024612291E-4, 7.290101164173079E-4, 7.551777416424104E-4, 7.84296795176215E-4, 7.939357468305781E-4, 8.135387146088309E-4, 8.824872563903185E-4, 8.845863935661914E-4, 8.917715585774286E-4, 8.985183709954564E-4, 9.25495345168732E-4, 9.306654257794323E-4, 9.360185123661335E-4, 9.873189714544412E-4, 0.0010330310376511262, 0.001113715093914196, 0.0011189763798681554, 0.0011455255989344967, 0.0011484942353526134, 0.0011943291482663797, 0.0012436018332832323, 0.0012616752937112921, 0.0012660017912578536, 0.001275701635899745, 0.001278889193386316, 0.001283320790588981, 0.00128950558657061, 0.0012954458424879079, 0.001305846425910613, 0.0013305909128395253, 0.0013412475064989537, 0.001395659694920585, 0.0014124024201706334, 0.001595490081369994, 0.0016174917460347665, 0.0016268070401358984, 0.0016324107739111079, 0.001634839815243404, 0.0016694968613459008, 0.0016785557234301398, 0.0016907366078290327, 0.00170390167535916, 0.0017064278222651372, 0.0017175096110639573, 0.0017176688431926714, 0.0017218452725970882, 0.0017681075571728663, 0.001782519737335433, 0.001782938648623937, 0.0018676723982118542, 0.0018999178681338256, 0.0019190240392029196, 0.0019970177867717543, 0.0020747787866520154, 0.0021291082602915906, 0.0021445743634575455, 0.0021638370336226984, 0.0022218298073096356, 0.0022474652456449004, 0.002319647413593134, 0.0023336019339242546, 0.002473693580577757, 0.0025208938953488374, 0.0025861372269066025, 0.0026866158801322833, 0.0027029422190712514, 0.0027278849514521726, 0.0032005797276487818, 0.0032026970080067424, 0.0032101544194970758, 0.0034591393549020847, 0.00351915022237575, 0.0035638228519275067, 0.0035687535797682512, 0.0038772891315491612, 0.00415964024732996, 0.004162795467982673, 0.004183496826312753, 0.00459235576224386, 0.004670678659874508, 0.004872986509046609, 0.005408142130577866, 0.005595284057185993, 0.0056032362105723505, 0.006285999113867967, 0.007343199969718763, 0.008454772220034134, 0.01448935885423638, 0.015486447261348478, 0.017913262099308613]
+
+questions with tag java-8 or java-9:
+  "Comparator.reversed() does not compile using lambda"
+  "Using Java 8&#39;s Optional with Stream::flatMap"
+  "How do I define a method which takes a lambda as a parameter in Java 8?"
+  "Break or return from Java 8 stream forEach?"
+  "Zipping streams using JDK8 with lambda (java.util.stream.Streams.zip)"
+  "Modifying local variable from inside lambda"
+  "Java 8 lambda Void argument"
+  "How to serialize a lambda?"
+  "Java 8: Where is TriFunction (and kin) in java.util.function? Or what is the alternative?"
+  "Does Java SE 8 have Pairs or Tuples?"
+  "Can a java lambda have more than 1 parameter?"
+  "Understanding Spliterator, Collector and Stream in Java 8"
+  "What are functional interfaces used for in Java 8?"
+  "Java 8 Streams: multiple filters vs. complex condition"
+  "Does a lambda expression create an object on the heap every time it&#39;s executed?"
+  "Java 8: Lambda-Streams, Filter by Method with Exception"
+  "Retrieving a List from a java.util.stream.Stream in Java 8"
+  "Optional orElse Optional in Java"
+  "Copy a stream to avoid &quot;stream has already been operated upon or closed&quot;"
+  "Java 8 lambdas, Function.identity() or t-&gt;t"
+  "Filter values only if not null using lambda in Java8"
+  "How to debug stream().map(...) with lambda expressions?"
+  "Lambda expression vs method reference"
+  "How can I throw CHECKED exceptions from inside Java 8 lambdas/streams?"
+  "In Java 8 how do I transform a Map&lt;K,V&gt; to another Map&lt;K,V&gt; using a lambda?"
+  "Java 8 List&lt;V&gt; into Map&lt;K, V&gt;"
+  "How to use a Java8 lambda to sort a stream in reverse order?"
+  "Java &quot;lambda expressions not supported at this language level&quot;"
+  "How do I use the new computeIfAbsent function?"
+  "What is a &#39;SAM type&#39; in Java?"
+  "Filter Java Stream to 1 and only 1 element"
+  "Built-in Java 8 predicate that always returns true?"
+  "Difference between final and effectively final"
+  "Java 8 Lambda function that throws exception?"
+
+average question body length:
+  848.19
+
+average question score:
+  344.78
+
+user with lowest reputation that wrote an answer:
+  User{reputation=1144, user_id=3003859, display_name='user3003859', link='https://stackoverflow.com/users/3003859/user3003859'}
+
+group questions by first title letter:
+  `: 1 questions
+  A: 3 questions
+  B: 2 questions
+  C: 10 questions
+  D: 5 questions
+  E: 2 questions
+  F: 2 questions
+  G: 2 questions
+  H: 13 questions
+  I: 7 questions
+  J: 9 questions
+  L: 6 questions
+  M: 4 questions
+  N: 1 questions
+  O: 3 questions
+  P: 3 questions
+  R: 4 questions
+  S: 3 questions
+  U: 3 questions
+  V: 1 questions
+  W: 15 questions
+  Z: 1 questions
+
+partition by accepted answer
+  answered: 90
+  non-answered: 10
+
+top answerers
+  Jon Skeetanswered 9 times
+  Stuart Marksanswered 9 times
+  John McCleananswered 9 times
+  Marc Gravellanswered 7 times
+  Holgeranswered 7 times
+
+Process finished with exit code 0
