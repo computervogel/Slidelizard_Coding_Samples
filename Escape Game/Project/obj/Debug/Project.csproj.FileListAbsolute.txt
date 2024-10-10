@@ -1,0 +1,6 @@
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\finkm\OneDrive\JKU\Semester 6\C#\Project\Project\obj\Debug\Project.pdb
