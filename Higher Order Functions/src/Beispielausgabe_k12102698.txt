@@ -1,0 +1,80 @@
+C:\Users\finkm\.jdks\corretto-17.0.7\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.1\lib\idea_rt.jar=55735:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\finkm\OneDrive\JKU\Semester 4\Softwareentwicklung 2\UE08\out\production\UE08" app.StudentApplication
+===========================================
+=== JKU KUSSS Backend Super System 3000 ===
+===========================================
+All students:
+16804242	->	Student{name='Herbert Posthofer', subject='Computer Science', degree=PHD}
+11255667	->	Student{name='Markus Mehringer', subject='History of Memes', degree=PHD}
+11255668	->	Student{name='Andreas Schörgenhummer', subject='Artificial Intelligence', degree=PHD}
+11266779	->	Student{name='Gabe Doginger', subject='History of Memes', degree=MSC}
+11355555	->	Student{name='Itis Wednesday', subject='Contemporary Music', degree=BSC}
+11410001	->	Student{name='Raffael Moossahner', subject='Artificial Intelligence', degree=PHD}
+11410002	->	Student{name='Sebastian Hofkloiber', subject='Digital Transformation in Industry 4.0', degree=MSC}
+11598765	->	Student{name='Lucas Macor', subject='Computer Science', degree=MSC}
+11898765	->	Student{name='Katrin Korn', subject='Digital Art', degree=BSC}
+12001447	->	Student{name='Gandalf der Gelbe', subject='Digital Art', degree=BSC}
+12001448	->	Student{name='Mike', subject='The Influence of Funny Names on the Funnyness of Homeworks', degree=BSC}
+21110001	->	Student{name='Maggus Sus', subject='Medicine', degree=null}
+
+1st putIfAbsent successful for student ID 11234567: true
+2nd putIfAbsent successful for student ID 11234567: false
+
+BSCs:
+11355555	->	Student{name='Itis Wednesday', subject='Contemporary Music', degree=BSC}
+11898765	->	Student{name='Katrin Korn', subject='Digital Art', degree=BSC}
+12001447	->	Student{name='Gandalf der Gelbe', subject='Digital Art', degree=BSC}
+12001448	->	Student{name='Mike', subject='The Influence of Funny Names on the Funnyness of Homeworks', degree=BSC}
+11234567	->	Student{name='Randy Random', subject='Game Design', degree=BSC}
+
+Last two student ID digits >= 50:
+11255667	->	Student{name='Markus Mehringer', subject='History of Memes', degree=PHD}
+11255668	->	Student{name='Andreas Schörgenhummer', subject='Artificial Intelligence', degree=PHD}
+11266779	->	Student{name='Gabe Doginger', subject='History of Memes', degree=MSC}
+11355555	->	Student{name='Itis Wednesday', subject='Contemporary Music', degree=BSC}
+11598765	->	Student{name='Lucas Macor', subject='Computer Science', degree=MSC}
+11898765	->	Student{name='Katrin Korn', subject='Digital Art', degree=BSC}
+11234567	->	Student{name='Randy Random', subject='Game Design', degree=BSC}
+
+Initials:
+16804242	->	HP
+11255667	->	MM
+11255668	->	AS
+11266779	->	GD
+11355555	->	IW
+11410001	->	RM
+11410002	->	SH
+11598765	->	LM
+11898765	->	KK
+12001447	->	GdG
+12001448	->	M
+21110001	->	MS
+11234567	->	RR
+
+Start years:
+16804242	->	68
+11255667	->	12
+11255668	->	12
+11266779	->	12
+11355555	->	13
+11410001	->	14
+11410002	->	14
+11598765	->	15
+11898765	->	18
+12001447	->	20
+12001448	->	20
+21110001	->	11
+11234567	->	12
+
+Student with three-part name: Student{name='Gandalf der Gelbe', subject='Digital Art', degree=BSC}
+Student with null degree: Student{name='Maggus Sus', subject='Medicine', degree=null}
+
+All student IDs start with 1: false
+All students have a space in their name: false
+
+No student name starts with X: true
+No student studies a subject with two words: true
+
+At least on student has ID that ends with 5 and studies BSC degree: true
+At least one student studies medicine: true
+
+Process finished with exit code 0
