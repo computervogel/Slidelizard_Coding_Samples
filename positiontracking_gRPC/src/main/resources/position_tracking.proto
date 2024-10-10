@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package ue8.protoOut;
+
+// Define the data type PositionInfo
+message PositionInfo {
+  string name = 1;
+  double x = 2;
+  double y = 3;
+}
+
+// Define the service
+service PositionTrackingService {
+  // RPC for sending positions
+  rpc SendPosition(stream PositionInfo) returns (Ack);
+
+  // RPC for receiving positions
+  rpc ReceivePosition(stream PositionRequest) returns (stream PositionInfo);
+}
+
+// Acknowledgement message
+message Ack {
+}
+
+// Request message for receiving positions
+message PositionRequest {
+  bool receive = 1;
+}
